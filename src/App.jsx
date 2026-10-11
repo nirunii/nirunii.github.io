@@ -164,7 +164,7 @@ function App() {
           <div>
             <h1>Hi, I'm Niruni. I design and build full-stack web apps.</h1>
             <Typer />
-            <p>I'm a Software Technology undergraduate at the University of Vocational Technology. I work with React, Node.js and PostgreSQL, and I enjoy turning ideas into clean, reliable software that is easy to use.</p>
+            <p></p>
             <div className="btns">
               <a className="btn fill" href="#contact">Get in touch</a>
               {CV && <a className="btn line" href={CV} download>Download CV</a>}
@@ -207,9 +207,9 @@ function App() {
             </div>
             <div>
               <div className="item rv">
-                <h3>B Tech (Hons) in Software Technology</h3>
+                <h3>B Tech in Software Technology</h3>
                 <p className="when">University of Vocational Technology, June 2024 to present</p>
-                <p>Studying programming, web development, databases and software testing.</p>
+                <p>Currently pursuing a degree in Software Technology, developing a strong foundation in programming, web development, database management, software engineering, and software testing. Gaining practical knowledge through academic projects and hands-on learning while building problem-solving and technical skills.</p>
               </div>
             </div>
           </div>
