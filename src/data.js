@@ -6,6 +6,8 @@
 //   live  = link to the live demo ("" = no demo button)
 //   img   = screenshot for the card, e.g. "/projects/subtly-chic.png"
 //           (the image file goes in public/projects/; "" = show the small drawn sketch)
+//const B + = import.meta.env.BASE_URL;
+
 export const PROJECTS = [
   { t: "Petal", kind: "To-do and notes app, individual project",
     stack: ["React", "Node.js", "Express", "PostgreSQL", "JWT",],
