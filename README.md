@@ -23,7 +23,7 @@ npm run dev
 ```
 npm run build
 ```
-The finished site is created in the `dist` folder. Deploy it on Netlify (build command `npm run build`, publish directory `dist`).
+The finished site is created in the `dist` folder. It is published with GitHub Pages by `.github/workflows/deploy.yml` every time you push to `main` (repository name: `nirunii.github.io`, live link: https://nirunii.github.io/).
 
 ## Tech
 React 18, Vite 5, plain CSS.
