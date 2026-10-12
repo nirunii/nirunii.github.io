@@ -21,7 +21,7 @@ nav ul a{color:var(--ink);text-decoration:none;font-weight:500;display:inline-bl
 section{padding:clamp(56px,calc(9 * var(--u)),96px) 0 0}
 .hero{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:clamp(32px,calc(5 * var(--u)),72px);align-items:center;padding-top:clamp(32px,calc(5 * var(--u)),64px)}
 @media (max-width:860px){.hero{grid-template-columns:1fr}}
-.hero h1{text-wrap:balance;font-size:clamp(34px,calc(4.2 * var(--u)),88px);letter-spacing:-0.02em;line-height:1.05}
+.hero h1{text-wrap:balance;font-size:clamp(34px,calc(5.6 * var(--u)),88px);letter-spacing:-0.02em;line-height:1.05}
 .hero p:not(.type):not(.cap){max-width:52ch;color:var(--muted);font-size:clamp(17px,calc(1.4 * var(--u)) + 12px,20px);margin:24px 0 32px}
 .btns{display:flex;gap:12px;flex-wrap:wrap}
 .btn{min-height:48px;padding:0 26px;display:inline-flex;align-items:center;border-radius:99px;font-weight:600;text-decoration:none;border:2px solid var(--plum)}
