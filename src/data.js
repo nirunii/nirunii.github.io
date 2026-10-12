@@ -23,7 +23,7 @@ export const PROJECTS = [
     stack: ["JavaScript", "React", "Vite", "CSS","Git and GitHub"],
     pts: ["Responsive layout that adapts from phones to large monitors, with light and dark modes and reduced-motion support.",
           "All text, projects, skills and notes live in one data file, so the site is easy to update."],
-    repo: "", live: "", img: "/projects/portfolio.jpeg" },
+    repo: "https://github.com/nirunii/nirunii.github.io", live: "https://nirunii.github.io/", img: "/projects/portfolio.jpeg" },
 ];
 
 // SKILLS: each row = a category name and the skills inside it.
